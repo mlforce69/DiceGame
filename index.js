@@ -3,6 +3,7 @@ let randomNumber2 = randomNumberGenerator();
 
 changeDiceOne(randomNumber1);
 changeDiceTwo(randomNumber2);
+
 pickWinner(randomNumber1, randomNumber2);
 
 
